@@ -1,0 +1,10 @@
+{
+    "description": "My Personal Portfolio",
+    "owner": {
+        "username": "Yahya-Rabii",
+        "email": "rabiiyahya1@gmail.com"
+    },
+    "record": {
+        "CNAME": "yahya-rabii.github.io"
+    }
+}
